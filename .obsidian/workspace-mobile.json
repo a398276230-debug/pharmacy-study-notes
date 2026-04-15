@@ -11,15 +11,14 @@
             "id": "a1e0fd535cb44924",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "药理学名解.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "药理学名解"
             }
           }
         ]
@@ -113,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "药理学名解.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "药理学名解.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -144,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "药理学名解.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -163,7 +165,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,12 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1e0fd535cb44924",
+  "active": "369fc8efc46db0f9",
   "lastOpenFiles": [
+    "药理学名解.md",
+    "未命名.md",
     "药理学顺口溜.md",
     "/药理学顺口溜.md",
     "未命名 1.base",
-    "未命名.base",
-    "药理学名解.md"
+    "未命名.base"
   ]
 }
