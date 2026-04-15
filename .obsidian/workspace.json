@@ -220,20 +220,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "nutstore-sync:Start sync": false,
-      "nutstore-sync:Stop sync": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12addeb862a1f57d",
+  "active": "de8e8ad5eb785881",
   "lastOpenFiles": [
+    "未命名",
     "药理学名解.md",
     "药理学顺口溜.md",
     "药理简答.md",
     "循证药学资料.md",
     "外科学.md",
     "未命名.base",
-    "未命名",
     "Welcome.md",
     "Untitled.base"
   ]
