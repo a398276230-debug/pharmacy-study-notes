@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "药理学顺口溜.md",
+                "file": "药理简答.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "药理学顺口溜"
+              "title": "药理简答"
             }
           }
         ],
@@ -225,9 +225,9 @@
   },
   "active": "de8e8ad5eb785881",
   "lastOpenFiles": [
+    "药理学顺口溜.md",
     "未命名",
     "药理学名解.md",
-    "药理学顺口溜.md",
     "药理简答.md",
     "循证药学资料.md",
     "外科学.md",
