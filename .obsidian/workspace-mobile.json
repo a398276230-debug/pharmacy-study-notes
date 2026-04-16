@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "药理学名解.md",
+                "file": "20260415讨论课.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "药理学名解"
+              "title": "20260415讨论课"
             }
           }
         ]
@@ -179,9 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "369fc8efc46db0f9",
+  "active": "a1e0fd535cb44924",
   "lastOpenFiles": [
     "药理学名解.md",
+    "20260415讨论课.md",
+    "/20260415讨论课.md",
     "未命名.md",
     "药理学顺口溜.md",
     "/药理学顺口溜.md",
