@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "循证药学资料.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "循证药学资料"
-            }
-          },
-          {
-            "id": "3f0f6701249ea52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "药理学名解.md",
+                "file": "病例讨论：心房颤动并发脑梗死.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "药理学名解"
-            }
-          },
-          {
-            "id": "12addeb862a1f57d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260415讨论课.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260415讨论课"
+              "title": "病例讨论：心房颤动并发脑梗死"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "7488fc2b1d871a32",
@@ -225,17 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12addeb862a1f57d",
+  "active": "b90f611cd7ca3fe9",
   "lastOpenFiles": [
+    "神经系统病例讨论2——特发性癫痫.md",
+    "病例讨论：心房颤动并发脑梗死.md",
+    "临床药物治疗学.md",
+    "未命名",
+    "医学影像学.md",
+    "成语积累.md",
     "药理简答.md",
     "20260415讨论课.md",
+    "未命名 1.base",
+    "未命名.base",
+    "药理学名解.md",
     "conflict-files-obsidian-git.md",
     "药理学顺口溜.md",
-    "未命名",
-    "药理学名解.md",
     "循证药学资料.md",
     "外科学.md",
-    "未命名.base",
     "Welcome.md",
     "Untitled.base"
   ]
